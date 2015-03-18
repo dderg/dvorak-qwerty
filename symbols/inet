@@ -87,21 +87,9 @@ xkb_symbols "media_acpi_common" {
 // Evdev Standardized Keycodes
 partial alphanumeric_keys
 xkb_symbols "evdev" {
-    //                                    //Fn + Esc NoSymbol button 15
-    // key <MUTE> [   XF86AudioMute ]     //Fn + F1
-    // key <VOL-> [ XF86AudioLowerVolume] //Fn + F2
-    // key <VOL+> [ XF86AudioRaiseVolume] //Fn + F3
-    //                                    //FN + F4 NoSymbol button2
-    // key <I232> [ XF86MonBrightnessDown //Fn + F5
-    // key <I233> [ XF86MonBrightnessUp ] //Fn + F6
-    //                                    //Fn + F7 NoSymbol screen lock Mod4 + L
-    //                                    //
-    // key <FK21> [ XF86TouchpadToggle ]  //Fn + F9, Mod4 + L
-    // key <I225> [      XF86Search ] };  //Fn + F10
-    //                                    //Fn + F11 CapsLock
-    key <MUTE>   {      [ XF86AudioMute         ]       }; //Fn + F1
-    key <VOL->   {      [ XF86AudioLowerVolume  ]       }; //Fn + F2
-    key <VOL+>   {      [ XF86AudioRaiseVolume  ]       }; //Fn + F3
+    key <MUTE>   {      [ XF86AudioMute         ]       };
+    key <VOL->   {      [ XF86AudioLowerVolume  ]       };
+    key <VOL+>   {      [ XF86AudioRaiseVolume  ]       };
     key <POWR>   {      [ XF86PowerOff          ]       };
     key <STOP>   {      [ Cancel                ]       };
     key <AGAI>   {      [ Redo                  ]       };
@@ -128,7 +116,7 @@ xkb_symbols "evdev" {
 
     key <HNGL>   {      [ Hangul                ]       };
     key <HJCV>   {      [ Hangul_Hanja          ]       };
-    key <FK21>   {      [ XF86TouchpadToggle    ]       }; //Fn + F9, Mod4 + L
+    key <FK21>   {      [ XF86TouchpadToggle    ]       };
     key <FK22>   {      [ XF86TouchpadOn        ]       };
     key <FK23>   {      [ XF86TouchpadOff       ]       };
 
@@ -206,15 +194,15 @@ xkb_symbols "evdev" {
     //End preserve
 
     key <I224>   {      [ XF86Messenger         ]       }; // KEY_CHAT
-    key <I225>   {      [ XF86Search            ]       }; //Fn + F10
+    key <I225>   {      [ XF86Search            ]       };
     key <I226>   {      [ XF86Go                ]       }; // KEY_CONNECT
     key <I227>   {      [ XF86Finance           ]       };
     key <I228>   {      [ XF86Game              ]       }; // KEY_SPORT
     key <I229>   {      [ XF86Shop              ]       };
 //  key <I230>   {      [ ]       }; // KEY_ALTERASE
     key <I231>   {      [ Cancel                ]       };
-    key <I232>   {      [ XF86MonBrightnessDown ]       }; //Fn + F5
-    key <I233>   {      [ XF86MonBrightnessUp   ]       }; //Fn + F6
+    key <I232>   {      [ XF86MonBrightnessDown ]       };
+    key <I233>   {      [ XF86MonBrightnessUp   ]       };
     key <I234>   {      [ XF86AudioMedia        ]       };
     key <I235>   {      [ XF86Display           ]       };
     key <I236>   {      [ XF86KbdLightOnOff     ]       }; // KEY_KBDILLUMTOGGLE

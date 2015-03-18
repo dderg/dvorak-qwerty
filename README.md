@@ -8,13 +8,16 @@ the keyboard changes to QWERTY when you hold down Control, Alt or Super key.
 these files include:
 
 Dvorak Qwerty
+
 Dvorak Qwerty simplified (no dead keys)
+
 Dvorak-Qwerty, international with dead keys
+
 Dvorak-Qwerty alternative international no dead keys
+
 Dvorak-Qwerty, classic
+
 Dvorak-Qwerty, programmer
-
-
 
 
 geometry (the picture of keyboard layout chart) is little bit strange because these layout using the first level to redirect, but these are no problem.

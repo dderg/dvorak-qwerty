@@ -47,6 +47,8 @@ Dvorak-Qwerty, classic
 Dvorak-Qwerty, programmer
 ------
 
+you may need reassign shortcut on system setting.
+
 if you need help, please send me a message.
 
 email: gypc.sunday+github@gmail.com.

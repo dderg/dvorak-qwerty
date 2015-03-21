@@ -27,7 +27,7 @@ download zip, and simply replace files:
 
 `/usr/share/X11/xkb/types/dvorak-qwerty`
 
-after reboot, you can choose new input source from text entry setting:
+after reboot, you can choose new input sources from text entry setting:
 Dvorak Qwerty
 ------
 Dvorak Qwerty simplified (no dead keys)

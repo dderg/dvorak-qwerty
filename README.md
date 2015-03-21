@@ -47,7 +47,7 @@ Dvorak-Qwerty, classic
 Dvorak-Qwerty, programmer
 ------
 
-you may need reassign shortcut on system setting.
+you may need reassign shortcuts in system setting.
 
 if you need help, please send me a message.
 

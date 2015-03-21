@@ -43,6 +43,6 @@ Dvorak-Qwerty, classic
 Dvorak-Qwerty, programmer
 ------
 
-if you need help, please send me a message.
+if you need help, please send me a message to `gypc.sunday+github@gmail.com`.
 
 

@@ -1,9 +1,10 @@
 Dvorak Qwerty for Linux XKB configuration files
 ======
-Keymap using first level to redirect to different keycode that works as Qwerty layout.
+this keymap using first level to redirect to different keycode that works as Qwerty layout.
 created and tested on Ubuntu 14.04.
-------
 
+Usage
+------
 simply replace files:
 
 /usr/share/X11/xkb/rules/base.lst

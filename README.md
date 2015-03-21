@@ -9,7 +9,7 @@ Usage
 ------
 simply replace files:
 
-/usr/share/X11/xkb/rules/base.lst
+'/usr/share/X11/xkb/rules/base.lst'
 
 /usr/share/X11/xkb/rules/base.xml
 

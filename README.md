@@ -1,5 +1,13 @@
 # dvorak-qwerty
-Dvorak Qwerty for Linux-XKB configuration files
+Dvorak Qwerty for Linux-XKB configuration files.
+
 created on Ubuntu 14.04.
 
-<head>Usage<head/>
+simply replace files:
+
+/usr/share/X11/xkb
+/usr/share/X11/xkb
+/usr/share/X11/xkb
+/usr/share/X11/xkb
+/usr/share/X11/xkb
+/usr/share/X11/xkb

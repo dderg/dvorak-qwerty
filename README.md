@@ -44,5 +44,6 @@ Dvorak-Qwerty, programmer
 ------
 
 if you need help, please send me a message to gypc.sunday+github@gmail.com.
+I'm not good at English, but I can read.
 
 

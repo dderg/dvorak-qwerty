@@ -9,7 +9,7 @@ created and tested on Ubuntu 14.04.
 
 Usage
 ------
-simply replace files:
+download zip, and simply replace files:
 
 `/usr/share/X11/xkb/rules/base.lst`
 

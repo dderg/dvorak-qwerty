@@ -25,7 +25,7 @@ simply replace files:
 
 `/usr/share/X11/xkb/types/dvorak-qwerty`
 
-after reboot, you can choose a input source:
+after reboot, you can choose new input source from text entry setting:
 Dvorak Qwerty
 ------
 Dvorak Qwerty simplified (no dead keys)

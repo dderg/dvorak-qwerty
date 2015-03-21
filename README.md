@@ -1,6 +1,6 @@
 Dvorak Qwerty for Linux XKB configuration files
 ======
-these keymaps using first level to redirect to different keycode in inet "evdev" section that not used in ordinary keyboard.
+these keymaps using first level to redirect to different keycode in inet "evdev" section that won't used in ordinary keyboard.
 
 any keys work as Qwerty when press with Control, Alt or Super.
 

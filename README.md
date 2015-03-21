@@ -4,21 +4,7 @@ these keymaps using first level to redirect to different keycode that works as Q
 
 created and tested on Ubuntu 14.04.
 
-Layouts
-------
 
-Dvorak Qwerty
-------
-Dvorak Qwerty simplified (no dead keys)
-------
-Dvorak-Qwerty, international with dead keys
-------
-Dvorak-Qwerty alternative international no dead keys
-------
-Dvorak-Qwerty, classic
-------
-Dvorak-Qwerty, programmer
-------
 Usage
 ------
 simply replace files:
@@ -39,5 +25,18 @@ simply replace files:
 
 /usr/share/X11/xkb/types/dvorak-qwerty
 
-and reboot.
+after reboot, you can choose a input source:
+Dvorak Qwerty
+------
+Dvorak Qwerty simplified (no dead keys)
+------
+Dvorak-Qwerty, international with dead keys
+------
+Dvorak-Qwerty alternative international no dead keys
+------
+Dvorak-Qwerty, classic
+------
+Dvorak-Qwerty, programmer
+------
+
 

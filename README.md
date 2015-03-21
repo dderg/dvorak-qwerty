@@ -1,5 +1,5 @@
-Dvorak Qwerty for Linux- XKB configuration files.
-======
+Dvorak Qwerty for Linux XKB configuration files
+
 
 created on Ubuntu 14.04.
 

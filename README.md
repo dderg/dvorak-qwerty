@@ -1,7 +1,8 @@
 Dvorak Qwerty for Linux XKB configuration files
-
-
-created on Ubuntu 14.04.
+======
+Keymap using first level to redirect to different keycode that works as Qwerty layout.
+created and tested on Ubuntu 14.04.
+------
 
 simply replace files:
 

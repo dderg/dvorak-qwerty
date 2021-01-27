@@ -49,10 +49,3 @@ Dvorak-Qwerty, programmer
 
 you may need reassign shortcuts in system setting.
 
-if you need help, please send me a message.
-
-email: gypc.sunday+github@gmail.com.
-
-I'm not good at English, but I can read.
-
-

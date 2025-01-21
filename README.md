@@ -1,5 +1,8 @@
 Dvorak Qwerty for Linux XKB configuration files
 ------
+> [!NOTE]
+> I'm not the original creator of this config, I had a fork, and original creator must have deleted their github account.
+
 these keymaps using first level to redirect to different keycode in inet "evdev" section that won't used in ordinary keyboard.
 
 any keys work as Qwerty when press with Control, Alt or Super.
